@@ -8,3 +8,5 @@
 
 <img width="800px" src="https://user-images.githubusercontent.com/115563184/212186549-ec9613b2-8d50-4c4d-8580-51fde5ee0634.png">
 
+<h1>Link para acessar o relógio</h1>
+<a href="https://kiminasu.github.io/relogio_kimi/index.html">Clique aqui</a>
